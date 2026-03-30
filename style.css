@@ -76,7 +76,7 @@ blockquote {
   border-left: 4px solid #b89d7c;
   color: #4d433a;
   font-style: italic;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 1.8;
 }
 
@@ -93,7 +93,21 @@ blockquote {
   margin-bottom: 35px;
 }
 
-.hero-box p {
+.hero-content {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.hero-image img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.hero-text p {
   margin: 0;
   font-size: 20px;
   line-height: 1.8;
@@ -169,6 +183,16 @@ footer nav a {
 
   .post-links {
     grid-template-columns: 1fr;
+  }
+
+  .hero-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-image img {
+    width: 100%;
+    height: auto;
   }
 
   article h1 {
