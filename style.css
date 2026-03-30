@@ -76,6 +76,8 @@ blockquote {
   border-left: 4px solid #b89d7c;
   color: #4d433a;
   font-style: italic;
+  font-size: 20px;
+  line-height: 1.8;
 }
 
 .meta {
