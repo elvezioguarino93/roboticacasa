@@ -8,7 +8,7 @@ on:
 
 permissions:
   contents: write
-
+  
 jobs:
   sitemap:
     runs-on: ubuntu-latest
