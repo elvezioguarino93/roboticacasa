@@ -1,9 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.roboticasa.it/</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.roboticasa.it/casa/</loc>
+  </url>
+  <url>
+    <loc>https://www.roboticasa.it/giardino/</loc>
+  </url>
+  <url>
+    <loc>https://www.roboticasa.it/ufficio/</loc>
+  </url>
+  <url>
+    <loc>https://www.roboticasa.it/famiglia/</loc>
+  </url>
+  <url>
+    <loc>https://www.roboticasa.it/fai-da-te/</loc>
+  </url>
+  <url>
+    <loc>https://www.roboticasa.it/segway-navimow-i105e/</loc>
+  </url>
+  <url>
+    <loc>https://www.roboticasa.it/segway-navimow-i105e/come-funziona/</loc>
+  </url>
+  <url>
+    <loc>https://www.roboticasa.it/segway-navimow-i105e/uso/</loc>
+  </url>
+  <url>
+    <loc>https://www.roboticasa.it/segway-navimow-i105e/limiti/</loc>
   </url>
 </urlset>
