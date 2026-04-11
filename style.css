@@ -73,7 +73,10 @@ article li {
    font-size: 18px;
   line-height: 1.8;
 }
-
+article img {
+  max-width: 700px;
+  height: auto; /* Mantiene le proporzioni corrette */
+}
 blockquote {
   margin: 30px 0;
   padding: 20px 25px;
@@ -203,7 +206,10 @@ footer nav a {
   article h1 {
     font-size: 32px;
   }
-
+article img {
+  max-width: 700px;
+  height: auto; /* Mantiene le proporzioni corrette */
+}
   article h2 {
     font-size: 24px;
   }
